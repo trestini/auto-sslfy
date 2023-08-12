@@ -1,0 +1,1 @@
+{"version":3,"file":"version.d.ts","sourceRoot":"","sources":["../../../../src/mkcert/version.ts"],"names":[],"mappings":"AAAA,OAAO,MAAM,MAAM,UAAU,CAAC;AAE9B,MAAM,MAAM,kBAAkB,GAAG;IAC/B,MAAM,EAAE,MAAM,CAAC;CAChB,CAAC;AAQF,cAAM,aAAa;IACjB,OAAO,CAAC,MAAM,CAAS;gBAEJ,KAAK,EAAE,kBAAkB;IAI/B,MAAM,CAAC,OAAO,EAAE,MAAM;IAQ5B,OAAO,CAAC,OAAO,EAAE,MAAM;;;;;;CAgC/B;AAED,eAAe,aAAa,CAAC"}
